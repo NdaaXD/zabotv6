@@ -1,10 +1,10 @@
 let handler =  m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • Telkomsel [081227144597]
+│ • 
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
-│ • Gopay [081227144597]
+│ • Note:Kalo Mau Tambahin Bot Ke Group Bilang Ke Owner ya + kasih link group!!
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
