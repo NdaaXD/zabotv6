@@ -24,7 +24,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╭─「 %me 🤖」
+╭─「 NdaaBotz-MD」
 │ 👋🏻 Hai, %name!
 │
 │ 🧱 Limit : *%limit Limit*
@@ -43,8 +43,7 @@ const defaultMenu = {
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
-*%npmname* | %version
-${'```%npmdesc```'}
+© NdaaBotz-MD
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
