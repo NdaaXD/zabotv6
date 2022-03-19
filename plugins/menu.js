@@ -34,8 +34,8 @@ const defaultMenu = {
 │ 
 │ 📅 Tanggal: *%week, %date*
 │ 🕰️ Waktu: *%time*
-│
-│ 📈 Uptime: *%uptime (%muptime)*
+│ 
+│ 📈 Runtime: *%uptime (%muptime)*
 │ 📊 Database: %rtotalreg of %totalreg
 ╰────
 %readmore`.trimStart(),
