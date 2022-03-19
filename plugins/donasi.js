@@ -1,6 +1,6 @@
 let handler =  m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • 
+│ • 6288220118685
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
